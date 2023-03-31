@@ -1,0 +1,109 @@
+[
+    {
+        "name": "Whatsapp-Chat Bot",
+        "tech": ["NodeJS",  "Whatsapp-web.js"],
+        "repo": "https://github.com/amitmishrra/whatsapp-chat-bot-2",
+        "description": "An automated whatsapp chat bot that response to incoming messages with a pre-defined message. It also has a feature to send a message to a particular contact at a particular time. It can send buttons, imagesn location etc."
+    }, 
+    {
+        "name": "Q-A Chat Bot",
+        "tech": ["NodeJS", "OpenAI API" , "Whatsapp-web.js"],
+        "repo": "https://github.com/amitmishrra/whatsapp-chat-bot",
+        "description" : "An automated whatsapp chat bot that response to incoming questions with AI generated answer. A small replica of chatGPT."
+    },
+    {
+        "name": "Accessbility Testing Framework",
+        "tech": ["Java", "Selenium", "Deque-Axe", "Cucumber", "React.js", "CSS"],
+        "repo": "https://github.com/amitmishrra/Accessibility-Test-Framework",
+        "liveLink" : "https://accessibility-test-report.netlify.app/",
+        "description" : "Framework has been created to do Accessibility Testing for a demo website, and generate a detailed report which captures all the logs and issues."
+    },
+    {
+        "name": "True NR Holidays",
+        "tech": ["React.js",  "TailwindCSS", "CSS", "MUI"],
+        "repo": "https://github.com/amitmishrra/truenrholidays",
+        "liveLink" : "https://truenrholidays.com/",
+        "description" : "A travel website for True NR Holidays, Indore. It has feature of booking trips and asking queries related to the travel packages. "
+    },
+    {
+        "name": "Biometric Authentication",
+        "tech": ["Ionic", "Angular", "Typescript"],
+        "repo": "https://github.com/amitmishrra/fingerprint-sensor",
+        "description" : "An POC for biometric authentication using fingerprint sensor and Face-Unlock . It uses Ionic framework to build the app and uses the fingerprint sensor to authenticate the user."
+    },
+    {
+        "name": "Sarcastic Cowboy",
+        "tech": ["React.js",  "TailwindCSS", "CSS", "NodeJS", "ExpressJS", "MongoDB"],
+        "repo": "https://github.com/amitmishrra/sarcasticCowboy",
+        "liveLink" : "https://www.sarcasticcowboy.com/",
+        "description" : "A blog website where users can read blogs, jokes, quotes. It has a feature of likes on the posts. It uses MongoDB to store the data and ExpressJS to create the REST API."
+    },
+    {
+        "name": "Portfolio",
+        "tech": ["React.js", "TailwindCSS", "CSS", "MUI"],
+        "repo": "https://github.com/amitmishrra/gauravsingh",
+        "liveLink" : "https://gauravsingh.info/",
+        "description" : "A portfolio website for Gaurav Singh"
+    },
+    {
+        "name": "Premi's Book World",
+        "tech": ["Java", "Spring Boot", "Spring Data JPA", "MySQL"],
+        "repo": "https://github.com/amitmishrra/premisbookworld",
+        "liveLink" : "https://premisbookworld.netlify.app/#/about",
+        "description" : "Portfolio website for author Dr. Subhash Chander Aima."
+    },
+    {
+        "name": "Spring Boot Rest API",
+        "tech": ["Java", "Spring Boot", "Spring Data JPA", "MySQL"],
+        "repo": "https://github.com/amitmishrra/spring-boot",
+        "description" : "A Rest API for a library management system. It uses Spring Boot to create the Rest API and Spring Data JPA to connect to the MySQL database."
+    },
+    
+    {
+        "name": "Newz Bee",
+        "tech": ["React.js", "TailwindCSS", "CSS"],
+        "repo": "https://github.com/amitmishrra/newz-app",
+        "liveLink" : "https://newz-bee.netlify.app/",
+        "description" : "A news website where users can read news from different sources. It uses News API to fetch the news. News are categorized into different categories like Sports, Technology, Business etc."
+    },
+    {
+        "name": "Random Phone Number Generator API",
+        "tech": ["NodeJS", "ExpressJS"],
+        "repo": "https://github.com/amitmishrra/randomPhoneNumberAPI",
+        "liveLink" : "https://random-phone-number-api.vercel.app/randomNumbers",
+        "description" : "An API that generates random phone numbers of every country at once. It uses NodeJS and ExpressJS to create the API."
+    },
+    {
+        "name": "Expense Tracker",
+        "tech": ["React.js", "TailwindCSS", "CSS"],
+        "repo": "https://github.com/amitmishrra/expense-tracker",
+        "liveLink" : "https://expency.netlify.app/",
+        "description" : "A website where users can track their expenses. It uses React.js to build the website and TailwindCSS to style the website. It uses localStorage to store the data."
+    },
+    {
+        "name": "Guess The Number",
+        "tech": ["HTML", "Javascript", "CSS"],
+        "repo": "https://github.com/amitmishrra/guess-the-number",
+        "liveLink" : "https://amitmishrra.github.io/guess-the-number/",
+        "description" : "A simple game where user has to guess the number between 1 to 20. It uses HTML, CSS and Javascript to build the game."
+    },
+    {
+        "name": "Weather Chrome Extension",
+        "tech": ["HTML", "Javascript", "CSS"],
+        "repo": "https://github.com/amitmishrra/Newz-Bee",
+        "description" : "A chrome extension that shows the weather of the current location of the user. It uses HTML, CSS and Javascript to build the extension."
+    },
+    {
+        "name": "Random Jokes Chrome Extension",
+        "tech": ["HTML", "Javascript", "CSS"],
+        "repo": "https://github.com/amitmishrra/joke-extension",
+        "description" : "A chrome extension that shows random jokes on the new tab. It uses HTML, CSS and Javascript to build the extension."
+    },
+    {
+        "name": "Car Rental System",
+        "tech": ["HTML", "Javascript", "CSS", "MongoDB", "NodeJS", "ExpressJS"],
+        "repo": "https://github.com/amitmishrra/24w_node.js",
+        "liveLink" : "https://new-app-24wheels.herokuapp.com/",
+        "description" : "A car rental system where users can book cars for a particular duration. It uses MongoDB to store the data and ExpressJS to create the REST API."
+    }
+]
